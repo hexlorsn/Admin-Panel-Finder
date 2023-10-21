@@ -1,9 +1,9 @@
 #!/usr/bin/python
 # -------------------------------------------------
-__AUTHOR__ = 'MOJTABA OR C.S.R OR Mr EXPLOiT'
-__TELEGRAM_ID__ = '@creator_typeri'
-__INSTAGRAM_ID__ = '@MJi_Devil'
-__GITHUB__ = 'https://github.com/C4ssif3r'
+__AUTHOR__ = 'HeX Development'
+__TELEGRAM_ID__ = '@hexlorsn'
+__INSTAGRAM_ID__ = '@hexlorsn'
+__GITHUB__ = 'https://github.com/hexlorsn'
 __COMMENT__ = '''NULL'''
 
 # -------------------------------------------------

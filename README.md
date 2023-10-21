@@ -15,11 +15,3 @@ Follow these steps to clone and use the project on your local machine:
 
    ```bash
    cd hex-admin-panel-finder
-
-3.   Open the File We Cloned!:
-
-   ```bash
-   python3 hexfinder.py
-
-4.    Type the domain name of the site where you want to find the admin panel!
-5.    Choose the Scan Type You Want!

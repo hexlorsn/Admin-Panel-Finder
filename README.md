@@ -11,7 +11,10 @@ Follow these steps to clone and use the project on your local machine:
    ```bash
    git clone https://github.com/kullaniciadi/hex-admin-panel-finder.git
 
-2.   Open the File We Cloned!:
-
+2. Open the File We Cloned!:
    ```bash
    cd hex-admin-panel-finder
+
+3.  After entering the file we have cloned, open the file with the .py extension!
+   ```bash
+   python3 hexfinder.py
